@@ -1,0 +1,13 @@
+{
+  "name": "VSOL",
+  "symbol": "VSOL",
+  "decimals": 9,
+  "address": "9NcV5NGyLKE3UkdEgHWXKrNLVyvVbn5pNYA7u6x8pump",
+  "logoURI": "https://i.imgur.com/abc123.png",
+  "tags": ["utility"],
+  "extensions": {
+    "website": "https://x.com/vsioncoin",
+    "telegram": "https://t.me/vsioncoin",
+    "description": "VSOL is a space-inspired cryptocurrency representing the vision to reach beyond the universe. Built on Solana blockchain."
+  }
+}

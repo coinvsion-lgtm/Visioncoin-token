@@ -1,10 +1,11 @@
+
 {
-  "name": "VSOL",
+  "chainId": 101,
+  "name": "VisionCoin",
   "symbol": "VSOL",
   "decimals": 9,
   "address": "9NcV5NGyLKE3UkdEgHWXKrNLVyvVbn5pNYA7u6x8pump",
-  "logoURI": "logoURI": 
-  "https://via.placeholder.com/256.png"
+  "logoURI": "https://raw.githubusercontent.com/username/visioncoin-assets/main/x6pt4o.png",
   "tags": ["utility"],
   "extensions": {
     "website": "https://x.com/vsioncoin",
